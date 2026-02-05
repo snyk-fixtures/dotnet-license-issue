@@ -5,7 +5,7 @@
     <RootNamespace>nuget_license_qa</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="iTextSharp" Version="5.5.13" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.1" />
     <PackageReference Include="jQueryDropDownSelect" Version="1.0.3" />
     <PackageReference Include="Run00.Core" Version="1.24.37" />
   </ItemGroup>
